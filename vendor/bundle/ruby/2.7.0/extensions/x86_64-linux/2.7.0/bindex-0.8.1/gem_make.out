@@ -1,0 +1,15 @@
+current directory: /media/salahmaher/Salah/OpenSourceTrack/Ruby/Rails/Day1/Lab1/myblog/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/home/salahmaher/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/salahmaher/.rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20200411-14621-1gei71j.rb extconf.rb
+creating Makefile
+
+current directory: /media/salahmaher/Salah/OpenSourceTrack/Ruby/Rails/Day1/Lab1/myblog/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /media/salahmaher/Salah/OpenSourceTrack/Ruby/Rails/Day1/Lab1/myblog/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /media/salahmaher/Salah/OpenSourceTrack/Ruby/Rails/Day1/Lab1/myblog/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -m 0755 cruby.so ./.gem.20200411-14621-120nhhd/skiptrace/internal

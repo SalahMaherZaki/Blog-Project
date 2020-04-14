@@ -1,0 +1,19 @@
+current directory: /media/salahmaher/Salah/OpenSourceTrack/Ruby/Rails/Day1/Lab1/myblog/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.1/ext/byebug
+/home/salahmaher/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/salahmaher/.rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20200411-14621-u1iqs6.rb extconf.rb
+creating Makefile
+
+current directory: /media/salahmaher/Salah/OpenSourceTrack/Ruby/Rails/Day1/Lab1/myblog/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /media/salahmaher/Salah/OpenSourceTrack/Ruby/Rails/Day1/Lab1/myblog/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /media/salahmaher/Salah/OpenSourceTrack/Ruby/Rails/Day1/Lab1/myblog/vendor/bundle/ruby/2.7.0/gems/byebug-11.1.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 byebug.so ./.gem.20200411-14621-dyirou/byebug
